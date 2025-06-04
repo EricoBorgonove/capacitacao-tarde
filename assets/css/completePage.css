@@ -1,5 +1,23 @@
+body{
+    height: 5000px;
+}
+
 .barra-rosa{
     background-color: #ffcad4;
     height: 4px;
     width: 100%;
+}
+.text-red{
+    color: red;
+    font-weight: bold;
+}
+.botao-rosa{
+    background-color: #ffcad4;
+    color: black;
+}
+.ajuste{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: start;
 }
